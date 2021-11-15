@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Colors</string>
+  <string name="title_activity_color_details">ColorDetails</string>
+</resources>
